@@ -1,0 +1,17 @@
+body {
+    background-color: #075985;
+}
+
+section {
+    max-width: 1300px;
+    margin: 2rem auto;
+    padding: 1rem;
+    background-color: #fff;
+    display: flex;
+    gap: 1rem;
+    flex-flow: wrap;
+}
+
+section h2 {
+    width: 100%;
+}
